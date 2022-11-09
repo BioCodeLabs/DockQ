@@ -1,0 +1,9 @@
+Model  : pdbs/afc/7JOD_AFC.pdb.fixed
+Native : pdbs/native/7jod.pdb
+Number of equivalent residues in chain A 223 (receptor)
+Number of equivalent residues in chain B 166 (ligand)
+Fnat 0.864 51 correct of 59 native contacts
+Fnonnat 0.400 34 non-native of 85 model contacts
+iRMS 1.317
+LRMS 4.807
+DockQ 0.729 

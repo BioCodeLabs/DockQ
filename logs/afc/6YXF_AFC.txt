@@ -1,0 +1,9 @@
+Model  : pdbs/afc/6YXF_AFC.pdb
+Native : pdbs/native/6YXF.pdB
+Number of equivalent residues in chain A 292 (receptor)
+Number of equivalent residues in chain B 147 (ligand)
+Fnat 0.000 0 correct of 61 native contacts
+Fnonnat 1.000 38 non-native of 38 model contacts
+iRMS 21.368
+LRMS 64.619
+DockQ 0.007 

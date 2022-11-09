@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+import sys 
 import Bio.PDB
 import warnings
 from Bio import BiopythonWarning
@@ -703,6 +703,32 @@ def main():
             print('*   For comments, please email: bjorn.wallner@.liu.se          *')
             print('*                                                              *')
             print('****************************************************************')
+ 
+        
+        name_log=model_in.split("/")[2].split(".")[0]+".txt"
+        stdoutOrigin=sys.stdout 
+        sys.stdout = open("logs/afc/"+name_log, "w")
+        print(("Model  : %s" % model_in))
+        print(("Native : %s" % native_in))
+        if len(best_info):
+            print(best_info)
+        print('Number of equivalent residues in chain ' + info['chain1'] + ' ' + str(info['len1']) + ' (' + info['class1'] + ')')
+        print('Number of equivalent residues in chain ' + info['chain2'] + ' ' + str(info['len2']) + ' (' + info['class2'] + ')')
+        print(("Fnat %.3f %d correct of %d native contacts" % (info['fnat'],info['nat_correct'],info['nat_total'])))
+        print(("Fnonnat %.3f %d non-native of %d model contacts" % (info['fnonnat'],info['nonnat_count'],info['model_total'])))
+        print(("iRMS %.3f" % irms))
+        print(("LRMS %.3f" % Lrms))
+        peptide_suffix=''
+        if capri_peptide:
+            peptide_suffix='_peptide'
+        peptide_disclaimer=''
+        if capri_peptide:
+            peptide_disclaimer='DockQ not reoptimized for CAPRI peptide evaluation'
+        print(("DockQ {:.3f} {}".format(DockQ,peptide_disclaimer)))
+        sys.stdout.close()
+        sys.stdout=stdoutOrigin
+
+
         print(("Model  : %s" % model_in))
         print(("Native : %s" % native_in))
         if len(best_info):
