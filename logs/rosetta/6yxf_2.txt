@@ -1,0 +1,9 @@
+Model  : pdbs/rosetta/6yxf_2.pdb
+Native : pdbs/native/6YXF.pdB
+Number of equivalent residues in chain A 292 (ligand)
+Number of equivalent residues in chain B 228 (receptor)
+Fnat 0.000 0 correct of 61 native contacts
+Fnonnat 0.000 0 non-native of 0 model contacts
+iRMS 24.464
+LRMS 77.738
+DockQ 0.005 

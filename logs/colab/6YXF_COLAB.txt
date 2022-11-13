@@ -1,0 +1,9 @@
+Model  : pdbs/colab/6YXF_COLAB.pdb
+Native : pdbs/native/6YXF.pdB
+Number of equivalent residues in chain A 292 (ligand)
+Number of equivalent residues in chain B 228 (receptor)
+Fnat 0.000 0 correct of 61 native contacts
+Fnonnat 1.000 27 non-native of 27 model contacts
+iRMS 20.614
+LRMS 36.537
+DockQ 0.019 

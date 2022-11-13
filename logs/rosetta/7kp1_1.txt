@@ -1,0 +1,9 @@
+Model  : pdbs/rosetta/7kp1_1.pdb
+Native : pdbs/native/7kp1.pdb
+Number of equivalent residues in chain A 285 (receptor)
+Number of equivalent residues in chain B 106 (ligand)
+Fnat 0.000 0 correct of 88 native contacts
+Fnonnat 1.000 9 non-native of 9 model contacts
+iRMS 23.163
+LRMS 51.899
+DockQ 0.010 

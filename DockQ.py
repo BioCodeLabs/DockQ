@@ -707,7 +707,10 @@ def main():
         
         name_log=model_in.split("/")[2].split(".")[0]+".txt"
         stdoutOrigin=sys.stdout 
-        sys.stdout = open("logs/afc/"+name_log, "w")
+
+        path= model_in.split("/")[1]+"/"
+
+        sys.stdout = open("logs/"+path+name_log, "w")
         print(("Model  : %s" % model_in))
         print(("Native : %s" % native_in))
         if len(best_info):
