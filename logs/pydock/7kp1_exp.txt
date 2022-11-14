@@ -1,0 +1,9 @@
+Model  : pdbs/pydock/7kp1_exp.pdb
+Native : pdbs/native/7kp1.pdb
+Number of equivalent residues in chain A 274 (receptor)
+Number of equivalent residues in chain B 104 (ligand)
+Fnat 0.955 84 correct of 88 native contacts
+Fnonnat 0.263 30 non-native of 114 model contacts
+iRMS 0.731
+LRMS 1.531
+DockQ 0.910 

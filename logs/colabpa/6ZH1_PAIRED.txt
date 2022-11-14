@@ -1,0 +1,9 @@
+Model  : pdbs/colabpa/6ZH1_PAIRED.pdb.fixed
+Native : pdbs/native/6zh1.pdb
+Number of equivalent residues in chain A 186 (receptor)
+Number of equivalent residues in chain B 133 (ligand)
+Fnat 0.000 0 correct of 78 native contacts
+Fnonnat 0.000 0 non-native of 0 model contacts
+iRMS 22.187
+LRMS 56.633
+DockQ 0.009 
