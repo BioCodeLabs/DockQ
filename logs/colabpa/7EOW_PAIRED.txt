@@ -1,0 +1,9 @@
+Model  : pdbs/colabpa/7EOW_PAIRED.pdb
+Native : pdbs/native/7eow.pdb
+Number of equivalent residues in chain A 232 (receptor)
+Number of equivalent residues in chain B 137 (ligand)
+Fnat 0.104 5 correct of 48 native contacts
+Fnonnat 0.894 42 non-native of 47 model contacts
+iRMS 13.289
+LRMS 23.208
+DockQ 0.078 
