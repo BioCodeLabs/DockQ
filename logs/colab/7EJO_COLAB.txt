@@ -1,0 +1,9 @@
+Model  : pdbs/colab/7EJO_COLAB.pdb.fixed
+Native : pdbs/native/7ejo.pdb
+Number of equivalent residues in chain A 145 (receptor)
+Number of equivalent residues in chain B 104 (ligand)
+Fnat 0.152 10 correct of 66 native contacts
+Fnonnat 0.787 37 non-native of 47 model contacts
+iRMS 12.299
+LRMS 15.052
+DockQ 0.136 

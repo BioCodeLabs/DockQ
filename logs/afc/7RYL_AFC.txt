@@ -1,0 +1,9 @@
+Model  : pdbs/afc/7RYL_AFC.pdb.fixed
+Native : pdbs/native/7ryl.pdb
+Number of equivalent residues in chain A 248 (receptor)
+Number of equivalent residues in chain B 209 (ligand)
+Fnat 0.863 139 correct of 161 native contacts
+Fnonnat 0.178 30 non-native of 169 model contacts
+iRMS 1.136
+LRMS 1.565
+DockQ 0.822 

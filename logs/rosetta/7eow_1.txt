@@ -1,0 +1,9 @@
+Model  : pdbs/rosetta/7eow_1.pdb
+Native : pdbs/native/7eow.pdb
+Number of equivalent residues in chain A 232 (receptor)
+Number of equivalent residues in chain B 137 (ligand)
+Fnat 0.000 0 correct of 48 native contacts
+Fnonnat 1.000 59 non-native of 59 model contacts
+iRMS 13.086
+LRMS 28.957
+DockQ 0.031 

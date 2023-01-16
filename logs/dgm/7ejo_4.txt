@@ -1,0 +1,9 @@
+Model  : pdbs/dgm/7ejo_4.pdb.fixed
+Native : pdbs/native/7ejo.pdb
+Number of equivalent residues in chain A 145 (receptor)
+Number of equivalent residues in chain B 104 (ligand)
+Fnat 0.030 2 correct of 66 native contacts
+Fnonnat 0.993 294 non-native of 296 model contacts
+iRMS 13.784
+LRMS 36.179
+DockQ 0.031 

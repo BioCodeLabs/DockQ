@@ -1,0 +1,9 @@
+Model  : pdbs/dgm/7kkh_2.pdb.fixed
+Native : pdbs/native/7kkh.pdb
+Number of equivalent residues in chain A 213 (ligand)
+Number of equivalent residues in chain B 221 (receptor)
+Fnat 0.000 0 correct of 113 native contacts
+Fnonnat 1.000 8 non-native of 8 model contacts
+iRMS 30.335
+LRMS 60.627
+DockQ 0.007 

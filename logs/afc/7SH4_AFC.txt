@@ -1,0 +1,9 @@
+Model  : pdbs/afc/7SH4_AFC.pdb
+Native : pdbs/native/7sh4.pdb
+Number of equivalent residues in chain A 285 (receptor)
+Number of equivalent residues in chain B 108 (ligand)
+Fnat 0.874 76 correct of 87 native contacts
+Fnonnat 0.321 36 non-native of 112 model contacts
+iRMS 3.854
+LRMS 4.845
+DockQ 0.587 

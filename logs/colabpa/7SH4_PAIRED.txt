@@ -1,0 +1,9 @@
+Model  : pdbs/colabpa/7SH4_PAIRED.pdb.fixed
+Native : pdbs/native/7sh4.pdb
+Number of equivalent residues in chain A 285 (receptor)
+Number of equivalent residues in chain B 108 (ligand)
+Fnat 0.897 78 correct of 87 native contacts
+Fnonnat 0.297 33 non-native of 111 model contacts
+iRMS 3.779
+LRMS 4.913
+DockQ 0.594 

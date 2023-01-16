@@ -1,0 +1,9 @@
+Model  : pdbs/colab/6X28_COLAB.pdb.fixed
+Native : pdbs/native/6x28.pdb
+Number of equivalent residues in chain A 115 (ligand)
+Number of equivalent residues in chain B 118 (receptor)
+Fnat 0.000 0 correct of 23 native contacts
+Fnonnat 1.000 69 non-native of 69 model contacts
+iRMS 17.506
+LRMS 51.036
+DockQ 0.011 

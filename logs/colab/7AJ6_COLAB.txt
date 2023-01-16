@@ -1,0 +1,9 @@
+Model  : pdbs/colab/7AJ6_COLAB.pdb.fixed
+Native : pdbs/native/7aj6.pdb
+Number of equivalent residues in chain B 209 (ligand)
+Number of equivalent residues in chain A 223 (receptor)
+Fnat 1.225 147 correct of 120 native contacts
+Fnonnat -0.167 -21 non-native of 126 model contacts
+iRMS 7.995
+LRMS 13.862
+DockQ 0.511 

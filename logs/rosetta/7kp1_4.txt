@@ -1,4 +1,4 @@
-Model  : pdbs/rosetta/7kp1_4.pdb
+Model  : pdbs/rosetta/7kp1_4.pdb.fixed
 Native : pdbs/native/7kp1.pdb
 Number of equivalent residues in chain A 285 (receptor)
 Number of equivalent residues in chain B 106 (ligand)

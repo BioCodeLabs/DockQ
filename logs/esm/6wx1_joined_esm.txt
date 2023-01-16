@@ -1,0 +1,9 @@
+Model  : pdbs/esm/6wx1_joined_esm.pdb.fixed
+Native : pdbs/native/6wx1.pdb
+Number of equivalent residues in chain A 219 (receptor)
+Number of equivalent residues in chain B 219 (ligand)
+Fnat 0.841 106 correct of 126 native contacts
+Fnonnat 0.152 19 non-native of 125 model contacts
+iRMS 0.885
+LRMS 1.211
+DockQ 0.854 

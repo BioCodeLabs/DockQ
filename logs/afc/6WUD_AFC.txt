@@ -1,0 +1,9 @@
+Model  : pdbs/afc/6WUD_AFC.pdb.fixed
+Native : pdbs/native/6wud.pdb
+Number of equivalent residues in chain A 191 (receptor)
+Number of equivalent residues in chain B 55 (ligand)
+Fnat 0.940 109 correct of 116 native contacts
+Fnonnat 0.035 4 non-native of 113 model contacts
+iRMS 0.424
+LRMS 0.523
+DockQ 0.954 

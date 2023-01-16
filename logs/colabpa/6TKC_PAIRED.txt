@@ -1,0 +1,9 @@
+Model  : pdbs/colabpa/6TKC_PAIRED.pdb.fixed
+Native : pdbs/native/6tkc.pdb
+Number of equivalent residues in chain A 231 (ligand)
+Number of equivalent residues in chain B 214 (receptor)
+Fnat 0.871 101 correct of 116 native contacts
+Fnonnat 0.217 28 non-native of 129 model contacts
+iRMS 1.019
+LRMS 1.275
+DockQ 0.844 

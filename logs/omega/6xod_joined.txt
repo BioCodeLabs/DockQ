@@ -1,0 +1,9 @@
+Model  : pdbs/omega/6xod_joined.pdb.fixed
+Native : pdbs/native/6xod.pdb
+Number of equivalent residues in chain A 164 (ligand)
+Number of equivalent residues in chain B 175 (receptor)
+Fnat 0.778 42 correct of 54 native contacts
+Fnonnat 0.023 1 non-native of 43 model contacts
+iRMS 1.102
+LRMS 4.298
+DockQ 0.741 

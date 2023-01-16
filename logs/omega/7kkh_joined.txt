@@ -1,0 +1,9 @@
+Model  : pdbs/omega/7kkh_joined.pdb.fixed
+Native : pdbs/native/7kkh.pdb
+Number of equivalent residues in chain A 213 (ligand)
+Number of equivalent residues in chain B 221 (receptor)
+Fnat 0.814 92 correct of 113 native contacts
+Fnonnat 0.240 29 non-native of 121 model contacts
+iRMS 4.243
+LRMS 6.805
+DockQ 0.512 

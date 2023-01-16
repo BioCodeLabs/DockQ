@@ -1,0 +1,9 @@
+Model  : pdbs/rosetta/6wx1_3.pdb.fixed
+Native : pdbs/native/6wx1.pdb
+Number of equivalent residues in chain A 219 (receptor)
+Number of equivalent residues in chain B 219 (ligand)
+Fnat 0.476 60 correct of 126 native contacts
+Fnonnat 0.155 11 non-native of 71 model contacts
+iRMS 3.144
+LRMS 4.733
+DockQ 0.475 

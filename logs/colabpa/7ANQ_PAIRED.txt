@@ -1,0 +1,9 @@
+Model  : pdbs/colabpa/7ANQ_PAIRED.pdb.fixed
+Native : pdbs/native/7anq.pdb
+Number of equivalent residues in chain A 231 (receptor)
+Number of equivalent residues in chain B 127 (ligand)
+Fnat 0.000 0 correct of 216 native contacts
+Fnonnat 1.000 24 non-native of 24 model contacts
+iRMS 19.524
+LRMS 66.128
+DockQ 0.007 

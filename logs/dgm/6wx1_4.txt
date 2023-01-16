@@ -1,0 +1,9 @@
+Model  : pdbs/dgm/6wx1_4.pdb.fixed
+Native : pdbs/native/6wx1.pdb
+Number of equivalent residues in chain A 232 (receptor)
+Number of equivalent residues in chain B 137 (ligand)
+Fnat 0.000 0 correct of 126 native contacts
+Fnonnat 1.000 5 non-native of 5 model contacts
+iRMS 25.066
+LRMS 39.286
+DockQ 0.016 

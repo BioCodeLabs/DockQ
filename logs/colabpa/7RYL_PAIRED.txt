@@ -1,0 +1,9 @@
+Model  : pdbs/colabpa/7RYL_PAIRED.pdb.fixed
+Native : pdbs/native/7ryl.pdb
+Number of equivalent residues in chain A 248 (receptor)
+Number of equivalent residues in chain B 209 (ligand)
+Fnat 0.857 138 correct of 161 native contacts
+Fnonnat 0.198 34 non-native of 172 model contacts
+iRMS 0.970
+LRMS 1.480
+DockQ 0.844 
